@@ -37,6 +37,11 @@ No issues found.
 
 ### `Demo`
 
+This branch deploys to the <strong>gh-pages</strong> branch. Which is deployed to github pages and can be viewed here: [Live demo!](https://wieisleon.nl/taskify/).
+
+***
+
+
 ![preview](preview.png)
 
 
